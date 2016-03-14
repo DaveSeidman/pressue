@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DaveSeidman/pressue/issues"
   },
-  "homepage": "https://github.com/DaveSeidman/pressue"
+  "homepage": "https://github.com/DaveSeidman/pressue",
+  "dependencies": {
+    "gpio": "^0.2.7"
+  }
 }
